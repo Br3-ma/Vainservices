@@ -141,11 +141,11 @@
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
 			<div class="wprt-spacer clearfix" data-desktop="45" data-mobi="40" data-smobi="40"></div>
-<div class="wprt-divider divider-center divider-solid"></div>
+{{-- <div class="wprt-divider divider-center divider-solid"></div> --}}
 <div class="wprt-spacer clearfix" data-desktop="45" data-mobi="35" data-smobi="35"></div>
 
-<p>putp put here ctus finibus. Cras lobortis pellentesque quam non mollis. Curabitur vitae sem ullamcorper, elementum ipsum vitae, convallis ante.</p>
-<div class="wprt-spacer clearfix" data-desktop="10" data-mobi="10" data-smobi="10"></div>
+{{-- <p>putp put here ctus finibus. Cras lobortis pellentesque quam non mollis. Curabitur vitae sem ullamcorper, elementum ipsum vitae, convallis ante.</p> --}}
+{{-- <div class="wprt-spacer clearfix" data-desktop="10" data-mobi="10" data-smobi="10"></div> --}}
 <div class="wprt-divider divider-center divider-solid"></div>
 <div class="wprt-spacer clearfix" data-desktop="30" data-mobi="30" data-smobi="30"></div>
 
@@ -154,10 +154,16 @@
 
         <div class="wprt-icon-box clearfix has-width style-7 icon-left grey-outline ">
         <div class="icon-wrap">
-                        <img loading="lazy" decoding="async" width="250" height="110" src="../../wp-content/uploads/sites/2/2018/09/neu-1.png" class="img-responsive" alt="" />                    </div>
+            <img loading="lazy" decoding="async" width="250" height="110" src="https://jspower.co.uk/wp-content/uploads/2021/03/thermal.jpg" class="img-responsive" alt="" />                    
+        </div>
         <h3 class="heading">THERMOGRAPH</h3>
 
-        <div class="desc"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus rhoncus sem et luctus finibus. Cras lobortis pellentesque quam non mollis.</p>
+        <div class="desc"><p>
+            Thermography is a service offered by VainServices, and it involves the use of infrared cameras to capture and analyze the heat emitted by an object or a system. 
+            This technology is based on the principle that different objects emit different amounts of infrared radiation based on their temperature. 
+            Thermography is commonly used for building inspections to identify areas with insufficient insulation, water leaks, or electrical issues.
+            Detecting overheating components in electrical systems before they fail, helping to prevent potential fires or equipment damage.
+        </p>
 </div>
 
         <div class="elm-btn">
@@ -166,10 +172,12 @@
 
     <div class="wprt-icon-box clearfix has-width style-7 icon-left grey-outline ">
         <div class="icon-wrap">
-            <img loading="lazy" decoding="async" width="250" height="110" src="../../wp-content/uploads/sites/2/2018/09/neu-2.png" class="img-responsive" alt="" />                    
+            <img loading="lazy" decoding="async" width="250" height="110" src="https://lh3.googleusercontent.com/proxy/_bjk2stQZB6uc3xcQZc4h5i43uE-0C5Z7J6xcJhOyrUwB2POTov7nxZdaWtfsLKH-1iaeSY7aNuVYZhPjsWV2S9t-ZfA_CMyuYw" class="img-responsive" alt="" />                    
         </div>
         <h3 class="heading">ELECTRICAL & MECHANICAL INSTRUMENTATION</h3>
-        <div class="desc"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus rhoncus sem et luctus finibus. Cras lobortis pellentesque quam non mollis.</p>
+        <div class="desc"><p>VainServices specializes in comprehensive Electrical and Mechanical Instrumentation, catering to diverse industries by providing installation, calibration, and maintenance services for a wide range of instrumentation equipment. 
+            Their expertise spans control systems, PLC programming, SCADA systems, sensors, transducers, condition monitoring, vibration analysis, energy management, safety systems, calibration services, troubleshooting, and compliance with industry standards. 
+            With a focus on customization, they design and implement tailored instrumentation solutions, incorporating IoT technologies for connectivity and offering training programs for efficient system operation. VainServices contributes significantly to the optimization and reliability of electrical and mechanical systems across various sectors.</p>
         </div>
         <div class="elm-btn">
         </div>
@@ -177,10 +185,12 @@
 
     <div class="wprt-icon-box clearfix has-width style-7 icon-left grey-outline ">
         <div class="icon-wrap">
-            <img loading="lazy" decoding="async" width="250" height="110" src="../../wp-content/uploads/sites/2/2018/09/neu-2.png" class="img-responsive" alt="" />                    
+            <img loading="lazy" decoding="async" width="250" height="110" src="https://thenetworkinstallers.com/wp-content/uploads/2022/04/Network-Installation-Engineer-1024x683.jpg" class="img-responsive" alt="" />                    
         </div>
         <h3 class="heading">FIBER INSTALLATION</h3>
-        <div class="desc"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus rhoncus sem et luctus finibus. Cras lobortis pellentesque quam non mollis.</p>
+        <div class="desc"><p>planning, design, and deployment of fiber optic infrastructure for a wide range of applications. 
+            VainServices is adept at executing both single-mode and multi-mode fiber installations, ensuring optimal performance for data transmission over long distances or within confined spaces. From laying fiber cables and termination to splicing and testing, their skilled technicians employ industry best practices to guarantee the integrity and efficiency of the installed fiber optic networks. 
+            Whether for telecommunications, data centers, or smart city initiatives, VainServices plays a pivotal role in establishing robust and future-proof fiber optic connectivity solutions.</p>
         </div>
         <div class="elm-btn">
         </div>
@@ -188,10 +198,12 @@
 
     <div class="wprt-icon-box clearfix has-width style-7 icon-left grey-outline ">
         <div class="icon-wrap">
-            <img loading="lazy" decoding="async" width="250" height="110" src="../../wp-content/uploads/sites/2/2018/09/neu-2.png" class="img-responsive" alt="" />                    
+            <img loading="lazy" decoding="async" width="250" height="110" src="https://vareli.co.in/vareliCMS/public/images/225312089/vehicle%20tracking%20solution%20provider%20kolkata.jpg" class="img-responsive" alt="" />                    
         </div>
         <h3 class="heading">VEHICLE TRACKING</h3>
-        <div class="desc"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus rhoncus sem et luctus finibus. Cras lobortis pellentesque quam non mollis.</p>
+        <div class="desc"><p>
+            Our expertise extends to Vehicle Tracking services, where we offer advanced solutions for real-time monitoring and management of fleets. Leveraging cutting-edge GPS and telematics technologies, our Vehicle Tracking systems provide accurate and up-to-the-minute location data, enabling businesses to enhance operational efficiency, improve safety, and optimize logistics. We specialize in the installation and integration of GPS tracking devices into vehicles, allowing for remote tracking, route optimization, and geofencing capabilities. Our comprehensive approach includes customizable dashboards, insightful reports, and alerts to empower businesses with valuable insights into their fleet's performance. With a focus on improving asset utilization and overall fleet management, our Vehicle Tracking services cater to a wide range of industries, from logistics and transportation to field services and beyond.
+        </p>
         </div>
         <div class="elm-btn">
         </div>
