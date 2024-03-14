@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ContactUsController;
+use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,9 +16,23 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
 Route::get('/', function () {
-    return view('welcome');
+    // Check if the view is already cached
+    if (Cache::has('cached_welcome_view')) {
+        // If cached, return the cached view
+        return Cache::get('cached_welcome_view');
+    }
+
+    // If not cached, render the view and cache it
+    $view = view('welcome')->render();
+
+    // Cache the rendered view for a specified duration (e.g., 1 hour)
+    Cache::put('cached_welcome_view', $view, now()->addHour());
+
+    return $view;
 });
+
 
 Auth::routes();
 

@@ -7,10 +7,9 @@
             <div class="wprt-fancy-text typed" data-fancy="Expertise,Transparency,Quality,Total commitment and honesty">
                 <h2 class="heading text-white"><span class="text"></span></h2>
             </div>
-
-            <div class="sub-heading font-size-18"><p>OUR PROFESSIONAL SERVICE IS SECOND TO NONE!</p>
-</div>
-
+            <div class="sub-heading font-size-18 text-white">
+                <p>OUR PROFESSIONAL SERVICE IS SECOND TO NONE!</p>
+            </div>
         </div>
     </div>
         
