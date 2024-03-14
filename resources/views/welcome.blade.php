@@ -1,7 +1,8 @@
 @include('layouts.head')
 
 <section class="wpb-content-wrapper"><section class="vc_rows wpb_row vc_row-fluid"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
-    <div class="hero-section slideshow text-center " data-height="full" data-count="2" data-image="https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/slider-full-screen-bg-3.jpg|https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/slider-full-screen-bg-1.jpg|" data-effect="fade" data-overlay="" data-poverlay="">
+    <div class="hero-section slideshow text-center " data-height="full" data-count="2" data-image="{{ asset('public/covers/5.jpg') }}" data-effect="fade" data-overlay="" data-poverlay="">
+        {{-- https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/slider-full-screen-bg-3.jpg|https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/slider-full-screen-bg-1.jpg| --}}
         <div class="hero-content">
             <div class="wprt-fancy-text typed" data-fancy="Expertise,Transparency,Quality,Total commitment and honesty">
                 <h2 class="heading text-white"><span class="text"></span></h2>

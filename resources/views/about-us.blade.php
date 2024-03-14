@@ -48,17 +48,19 @@
                             <div class="cbp-item">
                     <div class="item-wrap">
                         <a class="zoom-popup" href="#"><i class="rt-icon-zoom-in-2"></i></a>
-                        <img fetchpriority="high" decoding="async" width="848" height="439" src="../../wp-content/uploads/sites/2/2018/08/gallery-1-848x439-1.jpg" class="img-responsive" alt="" srcset="https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-1-848x439-1.jpg 848w, https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-1-848x439-1-300x155.jpg 300w, https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-1-848x439-1-768x398.jpg 768w, https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-1-848x439-1-600x311.jpg 600w" sizes="(max-width: 848px) 100vw, 848px" />                    </div>
+                        <img fetchpriority="high" decoding="async" width="848" height="439" src="{{ asset('public/pics/11.jpg')}}" class="img-responsive" alt="" sizes="(max-width: 848px) 100vw, 848px" />                    
+                    </div>
                 </div>
                             <div class="cbp-item">
                     <div class="item-wrap">
                         <a class="zoom-popup" href="#"><i class="rt-icon-zoom-in-2"></i></a>
-                        <img decoding="async" width="848" height="439" src="../../wp-content/uploads/sites/2/2018/08/gallery-2-848x439-1.jpg" class="img-responsive" alt="" srcset="https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-2-848x439-1.jpg 848w, https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-2-848x439-1-300x155.jpg 300w, https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-2-848x439-1-768x398.jpg 768w, https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-2-848x439-1-600x311.jpg 600w" sizes="(max-width: 848px) 100vw, 848px" />                    </div>
+                        <img decoding="async" width="848" height="439" src="{{ asset('public/pics/33.jpg')}}" class="img-responsive" alt="" sizes="(max-width: 848px) 100vw, 848px" />                    </div>
                 </div>
                             <div class="cbp-item">
                     <div class="item-wrap">
                         <a class="zoom-popup" href="#"><i class="rt-icon-zoom-in-2"></i></a>
-                        <img decoding="async" width="848" height="439" src="../../wp-content/uploads/sites/2/2018/08/gallery-3-848x439-1.jpg" class="img-responsive" alt="" srcset="https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-3-848x439-1.jpg 848w, https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-3-848x439-1-300x155.jpg 300w, https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-3-848x439-1-768x398.jpg 768w, https://wpdemo2.vegatheme.com/autoser/wp-content/uploads/sites/2/2018/08/gallery-3-848x439-1-600x311.jpg 600w" sizes="(max-width: 848px) 100vw, 848px" />                    </div>
+                        <img decoding="async" width="848" height="439" src="{{ asset('public/pics/44.jpg')}}" class="img-responsive" alt="" sizes="(max-width: 848px) 100vw, 848px" />                    
+                    </div>
                 </div>
                     </div>
     </div>
@@ -87,7 +89,8 @@
                     </div>
         <h3 class="heading">Transparency</h3>
 
-        <div class="desc"><p>Nulla imperdiet ultricies sapien eu blandit. Curabitur sem est, iaculis nec malesuada aliquet, fringilla at arcu.</p>
+        <div class="desc"><p>
+            Transparency is a cornerstone of VainServices, reflecting our commitment to clear communication, honesty, and accountability. </p>
 </div>
 
         <div class="elm-btn">
@@ -130,7 +133,7 @@
                     </div>
         <h3 class="heading">Corporate Value</h3>
 
-        <div class="desc"><p>We exhibit brilliance, reliability and quality. We pledge total commitment and honesty in all our operations.</p>
+        <div class="desc"><p> Driven by a relentless pursuit of excellence, constantly innovating to meet and exceed client expectations. Integrity is ingrained in every aspect of our operations.</p>
 </div>
 
         <div class="elm-btn">
@@ -172,7 +175,7 @@
 
     <div class="wprt-icon-box clearfix has-width style-7 icon-left grey-outline ">
         <div class="icon-wrap">
-            <img loading="lazy" decoding="async" width="250" height="110" src="https://lh3.googleusercontent.com/proxy/_bjk2stQZB6uc3xcQZc4h5i43uE-0C5Z7J6xcJhOyrUwB2POTov7nxZdaWtfsLKH-1iaeSY7aNuVYZhPjsWV2S9t-ZfA_CMyuYw" class="img-responsive" alt="" />                    
+            <img loading="lazy" decoding="async" width="250" height="110" src="https://www.tru.ca/__shared/assets/Instrumentation_and_Control_Technician_246099.jpg" class="img-responsive" alt="" />                    
         </div>
         <h3 class="heading">ELECTRICAL & MECHANICAL INSTRUMENTATION</h3>
         <div class="desc"><p>VainServices specializes in comprehensive Electrical and Mechanical Instrumentation, catering to diverse industries by providing installation, calibration, and maintenance services for a wide range of instrumentation equipment. 
